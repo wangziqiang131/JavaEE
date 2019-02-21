@@ -1,8 +1,6 @@
 # InterestingJavaEE
 
-有趣的JavaEE，有趣？呵呵……我也很无奈……
-
-这个工程是总结JavaEE中一些常用的基础知识，很久之前换工作，想着复习下EE里面的技术点，于是找了些东西看，但是感觉网上东西太多太乱，于是下定决心，以后有时间一定要总结一下这一块的技术点，于是就出现了这个工程……
+这个工程是总结JavaEE中一些常用的基础知识，想着复习下EE里面的技术点，于是找了些东西看，但是感觉网上东西太多太乱，于是下定决心，以后有时间一定要总结一下这一块的技术点，于是就出现了这个工程……
 
 其中，chapter01 —— chapter10准备总结一些前端技术，现在还没有想好怎么总结，以后会慢慢更新，对这部分知识点的设想已经在【总体大纲】中说明，后期会着重对这部分进行总结，欢迎监督和提出宝贵建议！
 
@@ -29,7 +27,7 @@ SSH采用注解方式整合：[InterestingSSH_Annotation](https://github.com/gon
 	chapter01
 		|	预计总结HTML、CSS、JavaScript、jQuery、BootStrap、mysql、JDBC、XML、Tomcat等
 	chapter10
-
+	
 	chapter11	servlet入门
 	chapter12	servlet案例
 	chapter13	request、response、下载
